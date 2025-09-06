@@ -1,0 +1,24 @@
+{
+  "name": "react_basic",
+  "version": "1.0.0",
+  "description": "Learning_react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilayamjiwtode21/React-learning.git"
+  },
+  "author": "Nilayam jiwtode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilayamjiwtode21/React-learning/issues"
+  },
+  "homepage": "https://github.com/nilayamjiwtode21/React-learning#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
